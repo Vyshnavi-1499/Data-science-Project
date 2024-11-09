@@ -5,8 +5,8 @@
    from sklearn.preprocessing import StandardScaler
 
    # Load the trained model
-   with open('model.pkl', 'rb') as model_file:
-       model = pickle.load(model_file)
+   with open('LDD_PROJECT.ipynb.txt.pkl', 'rb') as model_file:
+      LDD_PROJECT.ipynb.txt  = pickle.load(model_file)
 
    # Streamlit app title
    st.title("Liver Disease Prediction")
