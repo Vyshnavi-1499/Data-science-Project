@@ -1,3 +1,3 @@
-with open('.pkl', 'wb') as f:
-       pickle.dump(model, f)
+with open('LDD_PROJECT.ipynb.txt.pkl', 'wb') as f:
+       pickle.dump(LDD_PROJECT.ipynb.txt, f)
    
