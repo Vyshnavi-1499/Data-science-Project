@@ -1,3 +1,0 @@
-with open('LDD_PROJECT.ipynb.txt.pkl', 'wb') as f:
-       pickle.dump(LDD_PROJECT.ipynb.txt, f)
-   
